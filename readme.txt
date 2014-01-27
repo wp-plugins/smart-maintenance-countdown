@@ -34,7 +34,8 @@ User also can set the following parameners which will show in the Maintanence pa
 
 1. Upload `smart-maintenance-countdown` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. go to `SMaintenance` menu and set the status ON and save settings.
+3. Go to `SMaintenance` menu and set the status ON and save settings.
+4. Now 'Log out' and go to your Website font.
 
 == Frequently Asked Questions ==
 
