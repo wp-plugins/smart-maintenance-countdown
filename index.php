@@ -3,7 +3,7 @@
 Plugin Name: Smart Maintenance & Countdown
 Plugin URI: http://wordpress.org/plugins/
 Description: This is a very easy and simple plugins to maintain the under maintenance and Coming soon countdown period for wordpress.
-Version: 1.0
+Version: 1.1
 Author: GM Nazmul Hossain
 Author URI: http://gmnazmul.com
 License: GPL2

@@ -44,7 +44,7 @@ $mess_arr = get_custom_page_data();
 	<!-- TIMER -->
 	<div class="timer-area">
 		
-		<h1><?php echo $mess_arr['message']; ?></h1>
+		<h1><font style="margin-bottom: 1em; font-size: 2em; line-height: 3em; color: white;"><?php echo $mess_arr['message']; ?></font></h1>
 		
 		<ul id="countdown">
 			<li>
@@ -73,11 +73,13 @@ $mess_arr = get_custom_page_data();
 	<div class="container">
 
 		<h2>
+            <font style="margin-bottom: 1em; font-size: 1.2em; line-height: 1.5em;">
             <?php if($mess_arr['contactEmail'] !=""){ ?>
                 Contact Email : <?php echo $mess_arr['contactEmail']; ?>
             <?php } if($mess_arr['contactNumber'] !=""){ ?>
                 <br />
                 Contact Number : <?php echo $mess_arr['contactNumber']; } ?>
+            </font>
 		</h2>
         <?php if($mess_arr['facebookLink'] !="" || $mess_arr['twitterLink'] !="" || $mess_arr['googleLink'] !=""){ ?>
             <p>But you can get in touch by following us</p>
