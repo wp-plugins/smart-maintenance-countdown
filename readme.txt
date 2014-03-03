@@ -47,6 +47,13 @@ User also can set the following parameners which will show in the Maintanence pa
 4. This screen shot description corresponds to screenshot-4.png. Note that this screenshot shows the CountDown_2 Template.
 
 == Changelog ==
+= 1.1 =
+
+* Few Design Issue in CountDown_1 Template Fixed
+
+= 1.0 =
+
+* Initial Version Release
 
 == Upgrade Notice ==
 
